@@ -2,9 +2,9 @@
 WIN-INSTALLER-BY-TAM
 VERSION:2.0
 New Features
-✅ Auto Enable RDP when VM is starting
+✅ Auto Enable RDP 
 ✅Skip Windows Setup
-✅ Tunnel TCG 3389 Supported
+✅ Tunnel TCP 3389 Supported
 ✅ Increase Performance for VM
 💻Windows Server 2016 Added
 💻Windows Server 2022 Added
