@@ -1,2 +1,2 @@
-export PATH="$HOME/.pyenv/versions/3.10.13/bin:$PATH"
+export PATH="$HOME/.pyenv/versions/3.12/bin:$PATH"
 python win.py
