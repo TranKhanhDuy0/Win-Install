@@ -1,5 +1,5 @@
 -💻-
-WIN-INSTALLER-BY-TAM
+WIN-INSTALLER
 VERSION:2.0
 New Features
 ✅ Auto Enable RDP 
